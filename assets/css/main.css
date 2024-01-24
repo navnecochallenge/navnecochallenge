@@ -2706,8 +2706,8 @@ input, select, textarea {
 			}
 
 				.mini-posts > * {
-					margin: 2em 2em 0 0;
-					width: calc(50% - 2em);
+					margin: 0em 2em 2em 0;
+					width: calc(25% - 2em);
 				}
 
 				.mini-posts > :nth-child(-n + 2) {
